@@ -33,6 +33,10 @@
 
 <h4><a href="">Ball Project</a> - *WAS* Current game in development for mobile iOS and Android</h4>
 
+- I really got this project 99% complete and then the scope got out of hand and it never got finished
+- I am back on trying to finish this lil' gem
+
+
 <h4><a href="https://cieriusgames.itch.io/space-typer">Space Typer</a></h4>
 
 - This project was something for me to enjoy and try something new, a typing game!
@@ -47,6 +51,7 @@ Find me on different platforms & social media:
 - Instagram: <a href="https://www.instagram.com/cierius_art/">@cierius</a>
 - Itch.io: <a href="https://cieriusgames.itch.io/">cieriusgames.itch.io</a>
 
+<h2><a href="kanin.mann00@gmail.com">Contact Me!</a></h2>
 <!---
 cierius/cierius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
