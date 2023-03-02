@@ -37,7 +37,7 @@
 - I am back on trying to finish this lil' gem
 
 
-<h4><a href="https://cieriusgames.itch.io/space-typer">Space Typer</a></h4>
+<h4><a href="https://cieriusgames.itch.io/space-typer">Space Typer</a> - Released Feb of 2023</h4>
 
 - This project was something for me to enjoy and try something new, a typing game!
 - My main goal was to create a minimum viable product and then update it for other QoL features
