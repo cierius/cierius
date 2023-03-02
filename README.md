@@ -31,7 +31,13 @@
 - Started using and learning shaders with Project Shapes
 
 
-<h4><a href="">Ball Project</a> - Current game in development for mobile iOS and Android</h4>
+<h4><a href="">Ball Project</a> - *WAS* Current game in development for mobile iOS and Android</h4>
+
+<h4><a href="https://cieriusgames.itch.io/space-typer">Space Typer</a></h4>
+
+- This project was something for me to enjoy and try something new, a typing game!
+- My main goal was to create a minimum viable product and then update it for other QoL features
+
 
 
 <h2>Where To Find Me</h2>
