@@ -51,7 +51,7 @@ Find me on different platforms & social media:
 - Instagram: <a href="https://www.instagram.com/cierius_art/">@cierius</a>
 - Itch.io: <a href="https://cieriusgames.itch.io/">cieriusgames.itch.io</a>
 
-<h2><a href="kanin.mann00@gmail.com">Contact Me!</a></h2>
+<h2><a href="mailto: kanin.mann00@gmail.com">Contact Me!</a></h2>
 <!---
 cierius/cierius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
